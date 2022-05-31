@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/marvel/static/js/main.d0c05e2b.js",
+    "index.html": "/marvel/index.html",
+    "main.d0c05e2b.js.map": "/marvel/static/js/main.d0c05e2b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d0c05e2b.js"
+  ]
+}
